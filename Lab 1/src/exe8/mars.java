@@ -22,7 +22,6 @@ public class mars{
 		
 		for (Double i : weightOnMars) {
 		      System.out.println(i);
-	
 		}
 	}
 }
