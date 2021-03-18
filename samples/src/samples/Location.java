@@ -2,7 +2,7 @@ package samples;
 
 public class Location {
 	private String location;
-	int num1, num2;
+	Double decimal;
 
 	public String getLocation() {
 		return location;
